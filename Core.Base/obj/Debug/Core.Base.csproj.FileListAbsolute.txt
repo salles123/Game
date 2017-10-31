@@ -1,0 +1,4 @@
+C:\Users\note\Desktop\Nova pasta (2)\S2Test_Drive\Core.Base\bin\Debug\Core.Base.dll
+C:\Users\note\Desktop\Nova pasta (2)\S2Test_Drive\Core.Base\bin\Debug\Core.Base.pdb
+C:\Users\note\Desktop\Nova pasta (2)\S2Test_Drive\Core.Base\obj\Debug\Core.Base.dll
+C:\Users\note\Desktop\Nova pasta (2)\S2Test_Drive\Core.Base\obj\Debug\Core.Base.pdb
